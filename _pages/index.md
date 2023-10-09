@@ -5,13 +5,13 @@ id: home
 permalink: /
 ---
 
-# Welcome to DAMAT :wave:
+# Welcome to DAMAT!
 
 <!--<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>-->
 
-Start here: [[welcome]]
+Start here: [[Welcome]]
 
 <strong>Recently updated notes</strong>
 
