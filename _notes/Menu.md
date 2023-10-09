@@ -1,3 +1,3 @@
 ### Book notes
-[[The Gift Of Being Yourself, Benner]]
-[[Encouragement for Today's Pastors]]
+	[[The Gift Of Being Yourself, Benner]] <br />
+	[[Encouragement for Today's Pastors]]
