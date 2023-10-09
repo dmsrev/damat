@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*Bonjour.*
 
-Feel free to tell the world about what you love! 😍
+That was French.
+
+I am not.
