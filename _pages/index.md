@@ -11,7 +11,13 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>-->
 
-Start here: [[Welcome]]
+This is my "Digital Garden."
+
+Basically notes I make which I've chosen to be public.
+
+This is a work in progress.
+
+I suppose a [[Menu]] would be useful.
 
 <strong>Recently updated notes</strong>
 
